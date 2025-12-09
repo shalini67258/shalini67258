@@ -7,7 +7,7 @@
 
 <!-- PROFILE BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/2aJ8YvC.gif" width="550" />
+  <img src="https://giphy.com/explore/cats-and-computers" />
 </p>
 
 <h1 align="center">✨ Welcome to My GitHub Universe ✨</h1>
