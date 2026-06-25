@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shalini%20Aligeti&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Full%20Stack%20%7C%20AI%20Integration%20Engineer&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+real+products+with+Java+%2B+Spring+Boot+%F0%9F%9A%80;Shipping+AI+into+full-stack+apps+%F0%9F%A4%96;Final+Year+CSE+CSE+Student+%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+real+products+with+Java+%2B+Spring+Boot+%F0%9F%9A%80;Shipping+AI+into+full-stack+apps+%F0%9F%A4%96;Final+Year+CSE+Student+%F0%9F%8E%93" alt="Typing SVG" />
 
 <br/>
 
